@@ -4,7 +4,7 @@
 	<meta http-equiv="refresh" content="5">
 </head>
 <body bgcolor='blue'>
-	<h1>Hello World! v2</h1>
+	<h1>Hello World!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
