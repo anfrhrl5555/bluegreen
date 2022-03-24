@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>Hello World!</title>
+	<meta http-equiv="refresh" content="5">
 </head>
 <body bgcolor='green'>
 	<h1>Hello World! v2</h1>
