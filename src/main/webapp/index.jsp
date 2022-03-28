@@ -6,7 +6,7 @@
 <title>Hello World!</title>
 #	<meta http-equiv="refresh" content="5">
 </head>
-<body bgcolor='green'>
+<body bgcolor='blue'>
 	<h1>Hello World!</h1>
 	<p>
 		It is now
